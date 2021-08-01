@@ -1,4 +1,4 @@
-package hello.hellospring;
+package hello.hellospring.service;
 
 import hello.hellospring.repository.*;
 import hello.hellospring.service.MemberService;
